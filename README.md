@@ -2,9 +2,9 @@
   
 - 👀 I’m interested in Music, Art Film, Games (mostly Grand Strategy, Cards and Roguelikes), and geekness in general
 
-- 🌱 I’m currently learning Unity, for both data analysis and eventually game design.
+- 🌱 I’m currently learning Python in Thinkful's Data Analysis immersion program. 
 
-- 💞️ I’m looking to collaborate on game design, data analysis.
+- 💞️ I’m looking to collaborate on marketing data analysis and game design/publishing.
 
 - 📫 How to reach me rodrigo.feijao@gmail.com; 
 
